@@ -1,0 +1,14 @@
+.container{
+    width: 110px;
+    background-color: #FFE599;
+    overflow:visible;
+    border: 1px solid black;
+    height: 80vh;
+    }
+    
+.button{
+    background-color: #FFE599;
+    margin: 20px;
+    padding: 10px;
+    cursor: pointer;
+}
